@@ -1,4 +1,6 @@
 import sys
+sys.path.append('E:\\Machine Learning\\mlproject-1')
+import sys
 from dataclasses import dataclass
 
 import numpy as np 
